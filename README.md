@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Brenda Franco👋
 
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas
-- 🔎 Com foco em Software QA
+- 🔎 Com foco em Software QA e Backend
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: Sou apaixonada por animais e tenho 3 gatinhos
 
